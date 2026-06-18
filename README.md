@@ -1,4 +1,4 @@
-
+<pre>
 # ABDULRAHMAN ABDULWASIU
 =========================
 
@@ -18,13 +18,13 @@ Experience
 ---------------
 Connect With Me
 
-» Email       → abuumair.dev@gmail.com
-» LinkedIn    → https://linkedin.com/in/bnabdulwasiu
-» X / Twitter → https://twitter.com/bnabdulwasiu
-» Portfolio   → https://bnabdulwasiu.github.io/my-website
+» Email       → <a href="mailto:abuumair.dev@gmail.com">abuumair.dev@gmail.com</a>
+» LinkedIn    → <a href="https://linkedin.com/in/bnabdulwasiu">https://linkedin.com/in/bnabdulwasiu</a>
+» X / Twitter → <a href="https://twitter.com/bnabdulwasiu">https://twitter.com/bnabdulwasiu</a>
+» Portfolio   → <a href="https://bnabdulwasiu.github.io/my-website">https://bnabdulwasiu.github.io/my-website</a>
 
 --------------
-Skills & Tools
+Skills &amp; Tools
 
 » Backend   · Python, FastAPI, SQLAlchemy, asyncio, Pydantic
 » Databases · PostgreSQL, SQLite
@@ -44,7 +44,7 @@ Featured Projects
     over time so they are never permanently starved by high-priority traffic.
   ✦ Live dashboard powered by Server-Sent Events (SSE) with real-time job
     status updates and structured JSON logs for every lifecycle event.
-  ✦ Links: https://github.com/Bnabdulwasiu/background-worker
+  ✦ Links: <a href="https://github.com/Bnabdulwasiu/background-worker">https://github.com/Bnabdulwasiu/background-worker</a>
 
 ● Append-Only Event Store
   ✦ Custom-built database engine that writes event records into an append-only log
@@ -53,20 +53,20 @@ Featured Projects
     so that multi-byte characters (é, ü, emojis) never corrupt the offset index.
   ✦ Includes crash-safe startup recovery that rebuilds the index from raw bytes,
     skipping any torn lines left by unexpected shutdowns.
-  ✦ Links: https://github.com/Bnabdulwasiu/stage-8a
+  ✦ Links: <a href="https://github.com/Bnabdulwasiu/stage-8a">https://github.com/Bnabdulwasiu/stage-8a</a>
 
 ● Insighta Labs+ (Full-Stack Analytics Suite)
   ✦ A complete demographic data platform with three independent clients:
     a FastAPI backend, a Vercel-deployed web portal, and a Python CLI tool.
   ✦ Backend: PostgreSQL with composite indexes, connection pooling (10 active /
-    20 overflow), and TTL query caching that dropped response times from 320ms to <5ms.
+    20 overflow), and TTL query caching that dropped response times from 320ms to &lt;5ms.
   ✦ Web portal: Vanilla JS/HTML, GitHub OAuth, HTTP-only cookies, auto token refresh.
   ✦ CLI: insighta shell tool for token auth, natural-language profile queries,
     and CSV data export.
-  ✦ Links: https://github.com/Bnabdulwasiu/insighta-backend
-           https://github.com/Bnabdulwasiu/insighta-web
-           https://github.com/Bnabdulwasiu/insighta-cli
-           https://insighta-web-psi-neon.vercel.app (live)
+  ✦ Links: <a href="https://github.com/Bnabdulwasiu/insighta-backend">insighta-backend</a>
+           <a href="https://github.com/Bnabdulwasiu/insighta-web">insighta-web</a>
+           <a href="https://github.com/Bnabdulwasiu/insighta-cli">insighta-cli</a>
+           <a href="https://insighta-web-psi-neon.vercel.app">vercel (live)</a>
 
 --------------------------
 Thanks for stopping by! :)
@@ -75,3 +75,4 @@ I am available for backend engineering roles, API design work, and database
 optimization contracts. Feel free to reach out — always happy to talk shop.
 
 Let's build something solid together.
+</pre>
