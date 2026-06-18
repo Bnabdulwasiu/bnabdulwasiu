@@ -1,5 +1,5 @@
 <pre>
-# ABDULRAHMAN ABDULWASIU
+# ABDULRAHMAN ABDULWASIU (Abuumair)
 =========================
 
 Backend Engineer.
@@ -66,7 +66,7 @@ Featured Projects
   ✦ Links: <a href="https://github.com/Bnabdulwasiu/insighta-backend">insighta-backend</a>
            <a href="https://github.com/Bnabdulwasiu/insighta-web">insighta-web</a>
            <a href="https://github.com/Bnabdulwasiu/insighta-cli">insighta-cli</a>
-           <a href="https://insighta-web-psi-neon.vercel.app">vercel (live)</a>
+           <a href="https://insighta-web-psi-neon.vercel.app">Vercel (live) - React frontend</a>
 
 --------------------------
 Thanks for stopping by! :)
