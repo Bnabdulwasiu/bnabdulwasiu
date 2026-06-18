@@ -53,7 +53,7 @@ Featured Projects
     so that multi-byte characters (é, ü, emojis) never corrupt the offset index.
   ✦ Includes crash-safe startup recovery that rebuilds the index from raw bytes,
     skipping any torn lines left by unexpected shutdowns.
-  ✦ Links: <a href="https://github.com/Bnabdulwasiu/stage-8a">https://github.com/Bnabdulwasiu/stage-8a</a>
+  ✦ Links: <a href="https://github.com/Bnabdulwasiu/event-store">https://github.com/Bnabdulwasiu/event-store</a>
 
 ● Insighta Labs+ (Full-Stack Analytics Suite)
   ✦ A complete demographic data platform with three independent clients:
