@@ -1,4 +1,4 @@
-```
+
 # ABDULRAHMAN ABDULWASIU
 =========================
 
@@ -75,4 +75,3 @@ I am available for backend engineering roles, API design work, and database
 optimization contracts. Feel free to reach out — always happy to talk shop.
 
 Let's build something solid together.
-```
