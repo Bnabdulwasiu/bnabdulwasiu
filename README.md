@@ -42,15 +42,11 @@ Featured Projects
     so downstream jobs only run once their parents succeed.
   ✦ Starvation prevention: low-priority jobs receive automatic priority boosts
     over time so they are never permanently starved by high-priority traffic.
-  ✦ Live dashboard powered by Server-Sent Events (SSE) with real-time job
-    status updates and structured JSON logs for every lifecycle event.
   ✦ Links: <a href="https://github.com/Bnabdulwasiu/background-worker">https://github.com/Bnabdulwasiu/background-worker</a>
 
 ● Append-Only Event Store
   ✦ Custom-built database engine that writes event records into an append-only log
     on disk and retrieves them in O(1) time using an in-memory byte-offset index.
-  ✦ Solved a hard Unicode bug: pre-encoding to UTF-8 bytes before measuring length
-    so that multi-byte characters (é, ü, emojis) never corrupt the offset index.
   ✦ Includes crash-safe startup recovery that rebuilds the index from raw bytes,
     skipping any torn lines left by unexpected shutdowns.
   ✦ Links: <a href="https://github.com/Bnabdulwasiu/event-store">https://github.com/Bnabdulwasiu/event-store</a>
