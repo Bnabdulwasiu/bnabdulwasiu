@@ -1,3 +1,4 @@
+```
 # ABDULRAHMAN ABDULWASIU
 =========================
 
@@ -7,12 +8,14 @@ Currently deepening my work in API design, database internals, and async systems
 
 ----------
 Experience
+● Backend Engineer @ TryKey Protocol - Remote NG.
 
 ● Backend Engineer @ HNG Internship - Finalist (Graduated 140/10,000)
   ✦ Built and shipped backend services across multiple stages of a competitive
     engineering programme — from simple microservices to custom storage engines.
   ✦ Focused on: async APIs, database optimization, OAuth security, and file I/O systems.
-  ✦ Built and worked on integrating AI systems like LiveKit into teams codebase, for AI interviewing.
+  ✦ Built and worked on integrating AI systems like LiveKit into teams codebase,
+    for AI interviewing.
 
 ---------------
 Connect With Me
@@ -22,17 +25,28 @@ Connect With Me
 » X / Twitter   → https://twitter.com/bnabdulwasiu
 » Portfolio     → https://bnabdulwasiu.github.io/my-website
 
-
 --------------
 Skills & Tools
 
 » Backend:      Python, FastAPI, SQLAlchemy, asyncio, Pydantic
 » Databases:    PostgreSQL, SQLite
 » Auth:         GitHub OAuth, HTTP-only cookies, CSRF protection, JWT token refresh
-» Testing:      Pytest, async test suites
+» Testing:      Pytest, async test suites.
 
 -----------------
 Featured Projects
+
+● Background Job Scheduler
+  ✦ Production-grade job scheduler with a heap-based priority queue, DAG workflow
+    support, automatic retries with exponential backoff, and a dead-letter queue
+    for jobs that exhaust all retry attempts.
+  ✦ DAG system lets jobs declare dependencies — e.g. Report → Upload → Email —
+    so downstream jobs only run once their parents succeed.
+  ✦ Starvation prevention: low-priority jobs receive automatic priority boosts
+    over time so they are never permanently starved by high-priority traffic.
+  ✦ Live dashboard powered by Server-Sent Events (SSE) with real-time job
+    status updates and structured JSON logs for every lifecycle event.
+  ✦ Links: https://github.com/Bnabdulwasiu/background-worker
 
 ● Append-Only Event Store
   ✦ Custom-built database engine that writes event records into an append-only log
@@ -56,18 +70,10 @@ Featured Projects
            https://github.com/Bnabdulwasiu/insighta-cli
            https://insighta-web-psi-neon.vercel.app  (live)
 
-
-
-● AI Voice Interviewer
-  ✦ Real-time AI interview system built on LiveKit agents — handles audio pipelines,
-    turn-taking logic, and a Next.js/TypeScript frontend for candidates.
-  ✦ Links: https://github.com/Bnabdulwasiu/ai-interviewer
-           https://github.com/Bnabdulwasiu/livekit-interviewer-frontend
-
 --------------------------
-Thanks for stopping by! :)
 
 I am available for backend engineering roles, API design work, and database
 optimization contracts. Feel free to reach out — always happy to talk shop.
 
 Let's build something solid together.
+```
