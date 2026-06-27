@@ -59,9 +59,7 @@ Featured Projects
   ✦ Web portal: Vanilla JS/HTML, GitHub OAuth, HTTP-only cookies, auto token refresh.
   ✦ CLI: insighta shell tool for token auth, natural-language profile queries,
     and CSV data export.
-  ✦ Links: <a href="https://github.com/Bnabdulwasiu/insighta-backend">insighta-backend</a>
-           <a href="https://github.com/Bnabdulwasiu/insighta-web">insighta-web</a>
-           <a href="https://github.com/Bnabdulwasiu/insighta-cli">insighta-cli</a>
+  ✦ Links: <a href="https://github.com/Bnabdulwasiu/insighta-backend">insighta-backend</a>, <a href="https://github.com/Bnabdulwasiu/insighta-web">insighta-web</a>, <a href="https://github.com/Bnabdulwasiu/insighta-cli">insighta-cli</a>
            <a href="https://insighta-web-psi-neon.vercel.app">Vercel (live) - React frontend</a>
 
 --------------------------
