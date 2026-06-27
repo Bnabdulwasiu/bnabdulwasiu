@@ -26,9 +26,9 @@ Connect With Me
 --------------
 Skills &amp; Tools
 
-» Backend   · Python, FastAPI, SQLAlchemy, asyncio, Pydantic
-» Databases · PostgreSQL, SQLite
-» Auth      · GitHub OAuth, HTTP-only cookies, CSRF protection, JWT token refresh
+» Backend   · Python, FastAPI, Django, Flask.
+» Databases & Schemas · PostgreSQL, SQLite, SQLAlchemy, Pydantic 
+» Auth      · GitHub OAuth, GoogleAuth, ...
 » Testing   · Pytest, async test suites
 
 -----------------
